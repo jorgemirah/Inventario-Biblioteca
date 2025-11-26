@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BiblioTrack Inventory",
+  "description": "Professional bibliographic inventory management system for multi-site libraries with offline capability and AI reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
